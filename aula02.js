@@ -1,4 +1,4 @@
-"use sctrict"; // Modo estrito
+"use strict"; // Modo estrito
 
 let nome = "Luiz Carlos";
 console.log("Bessa");
